@@ -1,0 +1,13 @@
+{
+  "name": "@avindra/eslint-config-avindra-strict",
+  "version": "0.1.1",
+  "description": "Avindra's STRICT eslint config",
+  "repository": "",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "@avindra/eslint-config-avindra": "^0.2.1"
+  }
+}
