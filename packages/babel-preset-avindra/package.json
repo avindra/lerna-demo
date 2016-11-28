@@ -1,5 +1,5 @@
 {
-  "name": "babel-preset-avindra",
+  "name": "@avindra/babel-preset-avindra",
   "version": "0.2.1",
   "description": "Avindra's babel preset",
   "repository": "",
