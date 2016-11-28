@@ -4,6 +4,6 @@
     "lerna": "2.0.0-beta.30"
   },
   "scripts": {
-    "publish": "lerna publish --skip-git"
+    "publish": "lerna publish"
   }
 }
