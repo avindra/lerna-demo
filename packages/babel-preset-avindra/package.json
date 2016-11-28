@@ -1,0 +1,15 @@
+{
+  "name": "babel-preset-avindra",
+  "version": "0.0.1",
+  "description": "Avindra's babel preset",
+  "repository": "",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-plugin-transform-export-extensions": "^6.8.0",
+    "babel-preset-react-app": "^1.0.0"
+  }
+}
